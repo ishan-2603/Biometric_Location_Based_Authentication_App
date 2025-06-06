@@ -26,3 +26,6 @@ This Android application combines biometric fingerprint authentication with real
 ---
 
 ## 📱 Screenshots
+
+> ![Login Screen](./screenshots/Dashboard.png)  
+> ![Location Permission](./screenshots/Logged.png)
